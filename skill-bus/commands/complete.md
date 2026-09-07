@@ -1,5 +1,5 @@
 ---
-description: Signal that a skill's work is complete. Triggers downstream subscriptions with "when": "complete" timing. Automatically invoked — do not run manually.
+description: "Signal that a skill's work is complete. Triggers downstream subscriptions with \"when\": \"complete\" timing. Automatically invoked — do not run manually."
 ---
 
 # Skill Bus: Completion Signal (Experimental)
